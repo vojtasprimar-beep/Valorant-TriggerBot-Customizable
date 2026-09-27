@@ -15,7 +15,7 @@ CoordMode, Pixel, Screen
 ; HOTKEYS
 key_hold_mode := "alt"
 key_exit := "End"
-key_hold := "XButton2"
+key_hold := "CapsLock"
 key_config_1 := "Numpad1"
 key_config_2 := "Numpad2"
 key_config_3 := "Numpad3"
